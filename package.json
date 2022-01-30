@@ -1,0 +1,16 @@
+{
+  "name": "Visor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "to do"
+  },
+  "keywords": [],
+  "author": "6eer",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "2.0",
+    "qs": "^6.10.3"
+  }
+}
